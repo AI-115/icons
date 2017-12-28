@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?2ynhv0');
-  src:  url('fonts/icomoon.eot?2ynhv0#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?2ynhv0') format('truetype'),
-    url('fonts/icomoon.woff?2ynhv0') format('woff'),
-    url('fonts/icomoon.svg?2ynhv0#icomoon') format('svg');
+  src:  url('https://github.com/AI-115/icons/blob/master/fonts/icomoon.eot');
+  src:  url('https://github.com/AI-115/icons/blob/master/fonts/icomoon.eot') format('embedded-opentype'),
+    url('https://github.com/AI-115/icons/blob/master/fonts/icomoon.ttf') format('truetype'),
+    url('https://github.com/AI-115/icons/blob/master/fonts/icomoon.woff') format('woff'),
+    url('https://github.com/AI-115/icons/blob/master/fonts/icomoon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
